@@ -1,2 +1,0 @@
-# PowerSystemBros
-Proyecto
